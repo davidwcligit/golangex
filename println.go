@@ -1,7 +1,7 @@
 package main
 import "fmt"
 
-func main() {
+func printex() {
 	result := 10 / 2
-	fmt.Pringln(result)
+	fmt.Println(result)
 }
